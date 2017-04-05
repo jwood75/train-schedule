@@ -1,3 +1,37 @@
+body{
+	background-image: url("../images/background.jpg");
+}
+
+#thomasTrain{
+	width: 75%;
+	height: auto;
+	position: fixed;
+	left: 270px;
+}
+
+h1{
+	font-family: 'Baloo Chettan', cursive;
+	color: #fff;
+}
+
+th{
+	font-family: 'Baloo Chettan', cursive;
+	margin-bottom: 20px;
+}
+
+label{
+	font-family: 'Baloo Chettan', cursive;
+}
+
+.panel-heading{
+	font-family: 'Baloo Chettan', cursive;
+	font-size: 25px;
+}
+
 .newTrainRow{
 	margin: 30px;
+}
+
+.panel{
+	opacity: .75;
 }
